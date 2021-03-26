@@ -1,9 +1,0 @@
-package ch16T.schedule;
-
-public interface Scheduler {
-
-	void getNextCall();
-	void sendCallToAgent(); 
-	
-	
-}

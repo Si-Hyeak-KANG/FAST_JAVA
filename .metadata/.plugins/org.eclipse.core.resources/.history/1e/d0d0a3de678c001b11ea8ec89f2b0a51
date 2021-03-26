@@ -1,5 +1,0 @@
-package ch16T.schedule;
-
-public interface Scheduler {
-
-}
