@@ -1,0 +1,14 @@
+package ch02;
+
+public class VIPCusptomer {
+
+	private int customerID;
+	private String customerName;
+	private String customerGrade;
+	int bonusPoint;
+	double bonusRatio;
+	
+	public VIPCustomer() {
+		
+	}
+}

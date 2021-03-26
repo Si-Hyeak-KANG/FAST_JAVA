@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.sun.tools.javac.parser.Scanner"/>
+    <fullyQualifiedTypeName name="ch11.MakeReport"/>
+    <fullyQualifiedTypeName name="ch16.Employee"/>
+    <fullyQualifiedTypeName name="java.util.Calendar"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="ch21.Book"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="ch09.Subject"/>
+    <fullyQualifiedTypeName name="java.io.FileInputStream"/>
+    <fullyQualifiedTypeName name="java.util.Properties"/>
+    <fullyQualifiedTypeName name="ch13.domain.userinfo.UserInfo"/>
+    <fullyQualifiedTypeName name="ch13.domain.userinfo.dao.UserInfoDao"/>
+    <fullyQualifiedTypeName name="ch13.domain.userinfo.dao.oracle.UserInfoOracleDao"/>
+    <fullyQualifiedTypeName name="ch13.domain.userinfo.dao.mysql.UserInfoMySqlDao"/>
+    <fullyQualifiedTypeName name="ch14.Calc"/>
+    <fullyQualifiedTypeName name="ch16T.gamelevel.PlayerLevel"/>
+    <fullyQualifiedTypeName name="ch16T.schedule.RoundRobin"/>
+    <fullyQualifiedTypeName name="ch16T.schedule.LeastJob"/>
+    <fullyQualifiedTypeName name="ch16T.schedule.PriorityAllocation"/>
+    <fullyQualifiedTypeName name="ch03.StringBuilder"/>
+    <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
+    <fullyQualifiedTypeName name="java.lang.reflect.Constructor"/>
+    <fullyQualifiedTypeName name="com.sun.jdi.Method"/>
+    <fullyQualifiedTypeName name="java.lang.reflect.Method"/>
+    <fullyQualifiedTypeName name="java.lang.reflect.InvocationTargetException"/>
+    <fullyQualifiedTypeName name="ch02.MyArray"/>
+    <fullyQualifiedTypeName name="ch04.MyArrayStack"/>
+    <fullyQualifiedTypeName name="ch06.Powder"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+</qualifiedTypeNameHistroy>

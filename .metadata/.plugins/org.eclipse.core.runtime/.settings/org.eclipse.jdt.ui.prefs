@@ -1,0 +1,7 @@
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="ch09.Subject"><rhs name\="ch09.Subject"/></lhs><lhs name\="ch16.Employee"><rhs name\="ch16.Employee"/></lhs><lhs name\="ch16T.schedule.Scheduler"><rhs name\="ch16T.schedule.RoundRobin"/><rhs name\="ch16T.schedule.LeastJob"/><rhs name\="ch16T.schedule.PriorityAllocation"/></lhs><lhs name\="ch04.MyArrayStack"><rhs name\="ch04.MyArrayStack"/></lhs><lhs name\="ch06.Powder"><rhs name\="ch06.Powder"/></lhs></history>
+content_assist_number_of_computers=12
+eclipse.preferences.version=1
+org.eclipse.jdt.ui.formatterprofiles.version=20
+spelling_locale_initialized=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true
